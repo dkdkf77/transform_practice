@@ -6,6 +6,9 @@
 
 ### transform 변화 효과의 확인을 명확히 하기 위해 body에 padding을 주었다.
 
+### 불투명도 opercity : 0~1 ;
+
+
     원래의 형태
    ![스크린샷 2021-11-11 오후 12 08 04](https://user-images.githubusercontent.com/88579497/141236866-2b30d097-d2ed-43bd-8aba-798a642854a5.png)
     transform: rotate(45deg)를 준 값
@@ -20,7 +23,7 @@
     요소의 변환 효과
       - transform: 변환함수1 변환함수2 변환함수3 ...;
     변환 함수의 종류
-    	- transform: 원근법 이동 크기 회전 기울임;
+      - transform: 원근법 이동 크기 회전 기울임;
 
 ### 2D 변환 함수
 
